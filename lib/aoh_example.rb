@@ -23,6 +23,8 @@ def literal_aoh
   # held in the constants
   literal_aoh = [
     
+    {name:  "Joelle van Dyne", occupation: "Radio Personality"}, 
+    
     ]
 end
 
